@@ -1,0 +1,64 @@
+{
+    "title": "Root Schema",
+    "type": "object",
+    "default": {},
+    "required": ["sections"],
+    "properties": {
+        "sections": {
+            "title": "The sections Schema",
+            "type": "array",
+            "default": [],
+            "items": {
+                "title": "A Schema",
+                "type": "object",
+                "required": ["name", "members"],
+                "properties": {
+                    "name": {
+                        "title": "The name Schema",
+                        "type": "object",
+                        "required": ["cs", "pl", "uk", "sk", "en"],
+                        "properties": {
+                            "cs": {
+                                "title": "The cs Schema",
+                                "type": "string"
+                            },
+                            "pl": {
+                                "title": "The pl Schema",
+                                "type": "string"
+                            },
+                            "uk": {
+                                "title": "The uk Schema",
+                                "type": "string"
+                            },
+                            "sk": {
+                                "title": "The sk Schema",
+                                "type": "string"
+                            },
+                            "en": {
+                                "title": "The en Schema",
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "members": {
+                        "title": "The members Schema",
+                        "type": "array",
+                        "items": {
+                            "title": "A Schema",
+                            "type": "object",
+                            "required": ["name"],
+                            "properties": {
+                                "name": {
+                                    "title": "The name Schema",
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "uniqueItems": false
+                    }
+                }
+            },
+            "uniqueItems": false
+        }
+    }
+}

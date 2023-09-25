@@ -1,0 +1,31 @@
+{
+	"language": "cs",
+	"categories": [
+		{
+			"id": "d6e710c7f44b67220cd9b870e6107bf9",
+			"name_uk": "Основні фрази",
+			"name_main": "Základní fráze",
+			"description": "**Markdown**",
+			"phrases": [
+				"f22b3b19f76d8857a3171412fb5f35fc",
+				"8207d1466d4abb11238ba4225c32a51a"
+			]
+		}
+	],
+	"phrases": {
+		"f22b3b19f76d8857a3171412fb5f35fc": {
+			"id": "f22b3b19f76d8857a3171412fb5f35fc",
+			"image": "https://dl.airtable.com/.attachments/52920a00d830431b3bd41b222b7e4464/87dd13ea/auticka.svg",
+			"main": {
+				"translation": "Dobrý den.",
+				"transcription": "Добри ден",
+				"sound_url": "https://github.raw.../f22b3b19f76d8857a3171412fb5f35fc.mp3"
+			},
+			"uk": {
+				"translation": "Добрий день.",
+				"transcription": "Dobryj deň",
+				"sound_url": "https://github.raw.../f22b3b19f76d8857a3171412fb5f35fc.mp3"
+			}
+		}
+	}
+}
