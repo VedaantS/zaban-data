@@ -297,18 +297,18 @@
 			"examples": [
 				{
 					"sound_url": "https://data.movapp.eu/cs-sounds/e/e503e2fc885605c6995481588a96bb35.mp3",
-					"translation": "garáž",
-					"transcription": "ґараж"
+					"translation": "Lady",
+					"transcription": "लेडी - महिला"
 				},
 				{
 					"sound_url": "https://data.movapp.eu/cs-sounds/0/00b540c76dafa6dd46e4fab60826c3d7.mp3",
-					"translation": "gramofon",
-					"transcription": "ґрамофон"
+					"translation": "Little",
+					"transcription": "लिटल - छोटा"
 				},
 				{
 					"sound_url": "https://data.movapp.eu/cs-sounds/9/9560b7251cc679f65413d0bf5bb9d5f7.mp3",
-					"translation": "gymnastika",
-					"transcription": "ґимнастіка"
+					"translation": "Long",
+					"transcription": "लौंग - लंबा"
 				}
 			],
 			"sound_url": "https://data.movapp.eu/cs-alphabet/recAqkdPBflNh2AXu.mp3",
@@ -323,18 +323,18 @@
 			"examples": [
 				{
 					"sound_url": "https://data.movapp.eu/cs-sounds/7/75da7def00dfae3ae1165f4f67914495.mp3",
-					"translation": "hlava",
-					"transcription": "глава"
+					"translation": "Man",
+					"transcription": "मान - आदमी"
 				},
 				{
 					"sound_url": "https://data.movapp.eu/cs-sounds/f/f1f7b2b27884dc6f27d404c6a4a7434d.mp3",
-					"translation": "houba",
-					"transcription": "гоуба"
+					"translation": "Map",
+					"transcription": "माप - मानचित्र"
 				},
 				{
 					"sound_url": "https://data.movapp.eu/cs-sounds/3/3cd7f1e393fc4ea2a742e8c25b66d586.mp3",
-					"translation": "harmonika",
-					"transcription": "гармоніка"
+					"translation": "Monkey",
+					"transcription": "मंकी - बंदर"
 				}
 			],
 			"sound_url": "https://data.movapp.eu/cs-alphabet/recJz8EPMdOWvHeR5.mp3",
@@ -349,18 +349,18 @@
 			"examples": [
 				{
 					"sound_url": "https://data.movapp.eu/cs-sounds/0/0078ece789568af61f9494f12c2443ba.mp3",
-					"translation": "chléb",
-					"transcription": "хлеб"
+					"translation": "Name",
+					"transcription": "नेम - नाम"
 				},
 				{
 					"sound_url": "https://data.movapp.eu/cs-sounds/8/8190b15b6c4f168f28fdc2f0b7e32fa0.mp3",
-					"translation": "chobotnice",
-					"transcription": "хоботніце"
+					"translation": "North",
+					"transcription": "नॉर्थ - उत्तर"
 				},
 				{
 					"sound_url": "https://data.movapp.eu/cs-sounds/c/c9876fcff85166cc5481b6d3414fbc42.mp3",
-					"translation": "chameleon",
-					"transcription": "хамелеон"
+					"translation": "Net",
+					"transcription": "नेट"
 				}
 			],
 			"sound_url": "https://data.movapp.eu/cs-alphabet/recgdkPwsxkX24TrX.mp3",
@@ -375,18 +375,18 @@
 			"examples": [
 				{
 					"sound_url": "https://data.movapp.eu/cs-sounds/c/c3581516868fb3b71746931cac66390e.mp3",
-					"translation": "internet",
-					"transcription": "інтернет"
+					"translation": "Ocean",
+					"transcription": "ओषण - समंदर"
 				},
 				{
 					"sound_url": "https://data.movapp.eu/cs-sounds/9/91d1e9981f602dd7e9ffa4827c68ee71.mp3",
-					"translation": "indián",
-					"transcription": "індіан"
+					"translation": "Orange",
+					"transcription": "ओरिंज - नारंगी"
 				},
 				{
 					"sound_url": "https://data.movapp.eu/cs-sounds/4/4a4cb9072e98a45d92ede56c1b51faa0.mp3",
-					"translation": "iglú",
-					"transcription": "іґлу"
+					"translation": "Open",
+					"transcription": "ओपन - खुला"
 				}
 			],
 			"sound_url": "https://data.movapp.eu/cs-alphabet/rec3pU8WsY9bIt9ea.mp3",
@@ -401,18 +401,18 @@
 			"examples": [
 				{
 					"sound_url": "https://data.movapp.eu/cs-sounds/1/11f3044d90c2fedf37e7f9c0a7470137.mp3",
-					"translation": "lípa",
-					"transcription": "ліпа"
+					"translation": "Pencil",
+					"transcription": "पेंसिल"
 				},
 				{
 					"sound_url": "https://data.movapp.eu/cs-sounds/8/868d1890d1c4587bae261032bfd71ef4.mp3",
-					"translation": "papír",
-					"transcription": "папір"
+					"translation": "Potato",
+					"transcription": "पोटैटो - आलू"
 				},
 				{
 					"sound_url": "https://data.movapp.eu/cs-sounds/7/700c99a3601b87f2d9425571760d3c5d.mp3",
-					"translation": "písmeno",
-					"transcription": "пісмено"
+					"translation": "Picture",
+					"transcription": "पिक्चर"
 				}
 			],
 			"sound_url": "https://data.movapp.eu/cs-alphabet/recyaP4EPZJLYtPS0.mp3",
@@ -427,18 +427,18 @@
 			"examples": [
 				{
 					"sound_url": "https://data.movapp.eu/cs-sounds/7/7f51fa935071c1f7bc4dd1bf28ba13f3.mp3",
-					"translation": "jablko",
-					"transcription": "яблко"
+					"translation": "Queen",
+					"transcription": "क्वीन - रानी"
 				},
 				{
 					"sound_url": "https://data.movapp.eu/cs-sounds/6/61c0a0d7ab1ee0d8d8dd9d7ab26ce81b.mp3",
-					"translation": "jahoda",
-					"transcription": "ягода"
+					"translation": "Question",
+					"transcription": "क्वेश्चन - सवाल"
 				},
 				{
 					"sound_url": "https://data.movapp.eu/cs-sounds/b/b7acf6fefc50ef44b8990718d83bd082.mp3",
-					"translation": "ježek",
-					"transcription": "єжек"
+					"translation": "Quiet",
+					"transcription": "क्वाइट - चुप"
 				}
 			],
 			"sound_url": "https://data.movapp.eu/cs-alphabet/recvwq52UMdkgXdqq.mp3",
