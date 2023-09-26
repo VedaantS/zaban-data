@@ -5,8 +5,7 @@
 		{
 			"id": "recDDaCwQtvYhdcg2",
 			"letters": [
-				"C",
-				"c"
+				"अ"
 			],
 			"examples": [
 				{
@@ -26,13 +25,13 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recDDaCwQtvYhdcg2.mp3",
-			"transcription": "[a]"
+			"transcription": "[uh]"
 		},
 		{
 			"id": "rec9N66vDdvjVVsj4",
 			"letters": [
-				"Б",
-				"б"
+				"आ",
+				"ा"
 			],
 			"examples": [
 				{
@@ -52,13 +51,13 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/rec9N66vDdvjVVsj4.mp3",
-			"transcription": "[b]"
+			"transcription": "[ah]"
 		},
 		{
 			"id": "rec61WBFdbTSezMBH",
 			"letters": [
-				"В",
-				"в"
+				"इ",
+				"ि"
 			],
 			"examples": [
 				{
@@ -78,13 +77,13 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/rec61WBFdbTSezMBH.mp3",
-			"transcription": "[v]"
+			"transcription": "[i]"
 		},
 		{
 			"id": "recEIbysPTfDPbvNB",
 			"letters": [
-				"Г",
-				"г"
+				"ई",
+				"ी"
 			],
 			"examples": [
 				{
@@ -104,13 +103,13 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recEIbysPTfDPbvNB.mp3",
-			"transcription": "[h]"
+			"transcription": "[ee]"
 		},
 		{
 			"id": "recSDVzVVb0NgzXzU",
 			"letters": [
-				"Ґ",
-				"ґ"
+				"उ",
+				"ु"
 			],
 			"examples": [
 				{
@@ -130,13 +129,13 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recSDVzVVb0NgzXzU.mp3",
-			"transcription": "[g]"
+			"transcription": "[u]"
 		},
 		{
 			"id": "recB9aOt1XxOTIDIe",
 			"letters": [
-				"Д",
-				"д"
+				"ऊ",
+				"ू"
 			],
 			"examples": [
 				{
@@ -156,13 +155,13 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recB9aOt1XxOTIDIe.mp3",
-			"transcription": "[d]"
+			"transcription": "[ooh]"
 		},
 		{
 			"id": "recBxnp7BZbNv9ky8",
 			"letters": [
-				"Е",
-				"е"
+				"ए",
+				"े"
 			],
 			"examples": [
 				{
@@ -182,13 +181,13 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recBxnp7BZbNv9ky8.mp3",
-			"transcription": "[e]"
+			"transcription": "[ay]"
 		},
 		{
 			"id": "recT6cLU7O1F5wPEp",
 			"letters": [
-				"Є",
-				"є"
+				"ऎ",
+				"ै"
 			],
 			"examples": [
 				{
@@ -208,13 +207,13 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recT6cLU7O1F5wPEp.mp3",
-			"transcription": "[je]"
+			"transcription": "[e]"
 		},
 		{
 			"id": "recR5idHzhYW9eC5M",
 			"letters": [
-				"Ж",
-				"ж"
+				"ऒ",
+				"ो"
 			],
 			"examples": [
 				{
@@ -234,13 +233,13 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recR5idHzhYW9eC5M.mp3",
-			"transcription": "[ž]"
+			"transcription": "[oh]"
 		},
 		{
 			"id": "rec7YMn8RR7qCikn5",
 			"letters": [
-				"З",
-				"з"
+				"औ",
+				"ौ"
 			],
 			"examples": [
 				{
@@ -260,13 +259,13 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/rec7YMn8RR7qCikn5.mp3",
-			"transcription": "[z]"
+			"transcription": "[ow]"
 		},
 		{
 			"id": "rec7OIvBsgsmZiw0J",
 			"letters": [
-				"И",
-				"и"
+				"ॲ",
+				"ं"
 			],
 			"examples": [
 				{
@@ -286,13 +285,13 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/rec7OIvBsgsmZiw0J.mp3",
-			"transcription": "[y]"
+			"transcription": "[ng]"
 		},
 		{
 			"id": "recrNuiCCwBZjZIhs",
 			"letters": [
-				"І",
-				"і"
+				"अः",
+				"ः"
 			],
 			"examples": [
 				{
@@ -312,13 +311,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recrNuiCCwBZjZIhs.mp3",
-			"transcription": "[i]"
+			"transcription": "[ah]"
 		},
 		{
 			"id": "recmI8rcnPURlPcxM",
 			"letters": [
-				"Ї",
-				"ї"
+				"क"
 			],
 			"examples": [
 				{
@@ -338,13 +336,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recmI8rcnPURlPcxM.mp3",
-			"transcription": "[ji]"
+			"transcription": "[k]"
 		},
 		{
 			"id": "recBotIOJPWVFpqNs",
 			"letters": [
-				"Й",
-				"й"
+				"ख"
 			],
 			"examples": [
 				{
@@ -364,13 +361,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recBotIOJPWVFpqNs.mp3",
-			"transcription": "[j]"
+			"transcription": "[kh]"
 		},
 		{
 			"id": "rectuWdYha5gcNjCQ",
 			"letters": [
-				"К",
-				"к"
+				"ग"
 			],
 			"examples": [
 				{
@@ -390,13 +386,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/rectuWdYha5gcNjCQ.mp3",
-			"transcription": "[k]"
+			"transcription": "[g]"
 		},
 		{
 			"id": "rechVoEy6J4OrLURA",
 			"letters": [
-				"Л",
-				"л"
+				"घ"
 			],
 			"examples": [
 				{
@@ -416,13 +411,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/rechVoEy6J4OrLURA.mp3",
-			"transcription": "[l]"
+			"transcription": "[gh]"
 		},
 		{
 			"id": "rec81VMmvqYL8Ak32",
 			"letters": [
-				"М",
-				"м"
+				"ङ"
 			],
 			"examples": [
 				{
@@ -442,13 +436,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/rec81VMmvqYL8Ak32.mp3",
-			"transcription": "[m]"
+			"transcription": "[n]"
 		},
 		{
 			"id": "recuBoO1vyTgB8K83",
 			"letters": [
-				"Н",
-				"н"
+				"च"
 			],
 			"examples": [
 				{
@@ -468,13 +461,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recuBoO1vyTgB8K83.mp3",
-			"transcription": "[n]"
+			"transcription": "[ch]"
 		},
 		{
 			"id": "recluu4he7u6srOnQ",
 			"letters": [
-				"О",
-				"о"
+				"छ"
 			],
 			"examples": [
 				{
@@ -494,13 +486,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recluu4he7u6srOnQ.mp3",
-			"transcription": "[o]"
+			"transcription": "[chh]"
 		},
 		{
 			"id": "recF82O3WCQh0v0xC",
 			"letters": [
-				"П",
-				"п"
+				"ज"
 			],
 			"examples": [
 				{
@@ -520,13 +511,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recF82O3WCQh0v0xC.mp3",
-			"transcription": "[p]"
+			"transcription": "[j]"
 		},
 		{
 			"id": "recw6xcVervxmfAVd",
 			"letters": [
-				"Р",
-				"р"
+				"झ"
 			],
 			"examples": [
 				{
@@ -546,13 +536,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recw6xcVervxmfAVd.mp3",
-			"transcription": "[r]"
+			"transcription": "[jh]"
 		},
 		{
 			"id": "recmSLQYSNrXxAUm6",
 			"letters": [
-				"С",
-				"с"
+				"ञ"
 			],
 			"examples": [
 				{
@@ -572,13 +561,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recmSLQYSNrXxAUm6.mp3",
-			"transcription": "[s]"
+			"transcription": "[gy]"
 		},
 		{
 			"id": "recFN0y8LC3HDQYLp",
 			"letters": [
-				"Т",
-				"т"
+				"ट"
 			],
 			"examples": [
 				{
@@ -603,8 +591,7 @@
 		{
 			"id": "recIoyTuUWYyW3vlu",
 			"letters": [
-				"У",
-				"у"
+				"ठ"
 			],
 			"examples": [
 				{
@@ -624,13 +611,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recIoyTuUWYyW3vlu.mp3",
-			"transcription": "[u]"
+			"transcription": "[th]"
 		},
 		{
 			"id": "recyPCo6vs3mNPTDI",
 			"letters": [
-				"Ф",
-				"ф"
+				"ड"
 			],
 			"examples": [
 				{
@@ -650,13 +636,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recyPCo6vs3mNPTDI.mp3",
-			"transcription": "[f]"
+			"transcription": "[d]"
 		},
 		{
 			"id": "rech80KON2b1gfoSV",
 			"letters": [
-				"Х",
-				"х"
+				"ढ"
 			],
 			"examples": [
 				{
@@ -676,13 +661,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/rech80KON2b1gfoSV.mp3",
-			"transcription": "[ch]"
+			"transcription": "[dh]"
 		},
 		{
 			"id": "rec1JV8rfVUO2b36T",
 			"letters": [
-				"Ц",
-				"ц"
+				"ण"
 			],
 			"examples": [
 				{
@@ -702,13 +686,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/rec1JV8rfVUO2b36T.mp3",
-			"transcription": "[c]"
+			"transcription": "[n]"
 		},
 		{
 			"id": "recsxzayY1XgKnzjV",
 			"letters": [
-				"Ч",
-				"ч"
+				"त"
 			],
 			"examples": [
 				{
@@ -728,13 +711,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recsxzayY1XgKnzjV.mp3",
-			"transcription": "[č]"
+			"transcription": "[t]"
 		},
 		{
 			"id": "recwK6jUYBX7LzijM",
 			"letters": [
-				"Ш",
-				"ш"
+				"थ"
 			],
 			"examples": [
 				{
@@ -754,13 +736,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recwK6jUYBX7LzijM.mp3",
-			"transcription": "[š]"
+			"transcription": "[th]"
 		},
 		{
 			"id": "recrOKoU116jw2Uth",
 			"letters": [
-				"Щ",
-				"щ"
+				"द"
 			],
 			"examples": [
 				{
@@ -780,12 +761,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recrOKoU116jw2Uth.mp3",
-			"transcription": "[šč]"
+			"transcription": "[d]"
 		},
 		{
 			"id": "recntseq6iSgLoKl7",
 			"letters": [
-				"ь"
+				"ध"
 			],
 			"examples": [
 				{
@@ -805,13 +786,12 @@
 				}
 			],
 			"sound_url": null,
-			"transcription": "měkký znak"
+			"transcription": "[dh]"
 		},
 		{
 			"id": "recVTytvp9f1OCmgn",
 			"letters": [
-				"Ю",
-				"ю"
+				"न"
 			],
 			"examples": [
 				{
@@ -831,13 +811,12 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recVTytvp9f1OCmgn.mp3",
-			"transcription": "[ju]"
+			"transcription": "[n]"
 		},
 		{
 			"id": "recTaPnTXAc0JFVAV",
 			"letters": [
-				"Я",
-				"я"
+				"प"
 			],
 			"examples": [
 				{
@@ -857,7 +836,332 @@
 				}
 			],
 			"sound_url": "https://data.movapp.eu/uk-alphabet/recTaPnTXAc0JFVAV.mp3",
-			"transcription": "[ja]"
+			"transcription": "[p]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"फ"
+			],
+			"examples": [
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/b/bc82ed7e4ec21a697ad0c7ef3e0a4bf1.mp3",
+					"translation": "юнак",
+					"transcription": "junak"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/a/a30e3ad4982e350299c96d62a097e4c3.mp3",
+					"translation": "ювілей",
+					"transcription": "juvilej"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/6/6fbcec67b28e50f2dc0a8a72cd3cb0fe.mp3",
+					"translation": "любити",
+					"transcription": "ljubyty"
+				}
+			],
+			"sound_url": "https://data.movapp.eu/uk-alphabet/recVTytvp9f1OCmgn.mp3",
+			"transcription": "[f]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"ब"
+			],
+			"examples": [
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/b/bc82ed7e4ec21a697ad0c7ef3e0a4bf1.mp3",
+					"translation": "юнак",
+					"transcription": "junak"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/a/a30e3ad4982e350299c96d62a097e4c3.mp3",
+					"translation": "ювілей",
+					"transcription": "juvilej"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/6/6fbcec67b28e50f2dc0a8a72cd3cb0fe.mp3",
+					"translation": "любити",
+					"transcription": "ljubyty"
+				}
+			],
+			"sound_url": "https://data.movapp.eu/uk-alphabet/recVTytvp9f1OCmgn.mp3",
+			"transcription": "[b]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"भ"
+			],
+			"examples": [
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/b/bc82ed7e4ec21a697ad0c7ef3e0a4bf1.mp3",
+					"translation": "юнак",
+					"transcription": "junak"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/a/a30e3ad4982e350299c96d62a097e4c3.mp3",
+					"translation": "ювілей",
+					"transcription": "juvilej"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/6/6fbcec67b28e50f2dc0a8a72cd3cb0fe.mp3",
+					"translation": "любити",
+					"transcription": "ljubyty"
+				}
+			],
+			"sound_url": "https://data.movapp.eu/uk-alphabet/recVTytvp9f1OCmgn.mp3",
+			"transcription": "[bh]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"म"
+			],
+			"examples": [
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/b/bc82ed7e4ec21a697ad0c7ef3e0a4bf1.mp3",
+					"translation": "юнак",
+					"transcription": "junak"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/a/a30e3ad4982e350299c96d62a097e4c3.mp3",
+					"translation": "ювілей",
+					"transcription": "juvilej"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/6/6fbcec67b28e50f2dc0a8a72cd3cb0fe.mp3",
+					"translation": "любити",
+					"transcription": "ljubyty"
+				}
+			],
+			"sound_url": "https://data.movapp.eu/uk-alphabet/recVTytvp9f1OCmgn.mp3",
+			"transcription": "[m]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"य"
+			],
+			"examples": [
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/b/bc82ed7e4ec21a697ad0c7ef3e0a4bf1.mp3",
+					"translation": "юнак",
+					"transcription": "junak"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/a/a30e3ad4982e350299c96d62a097e4c3.mp3",
+					"translation": "ювілей",
+					"transcription": "juvilej"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/6/6fbcec67b28e50f2dc0a8a72cd3cb0fe.mp3",
+					"translation": "любити",
+					"transcription": "ljubyty"
+				}
+			],
+			"sound_url": "https://data.movapp.eu/uk-alphabet/recVTytvp9f1OCmgn.mp3",
+			"transcription": "[y]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"र"
+			],
+			"examples": [
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/b/bc82ed7e4ec21a697ad0c7ef3e0a4bf1.mp3",
+					"translation": "юнак",
+					"transcription": "junak"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/a/a30e3ad4982e350299c96d62a097e4c3.mp3",
+					"translation": "ювілей",
+					"transcription": "juvilej"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/6/6fbcec67b28e50f2dc0a8a72cd3cb0fe.mp3",
+					"translation": "любити",
+					"transcription": "ljubyty"
+				}
+			],
+			"sound_url": "https://data.movapp.eu/uk-alphabet/recVTytvp9f1OCmgn.mp3",
+			"transcription": "[r]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"ल"
+			],
+			"examples": [
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/b/bc82ed7e4ec21a697ad0c7ef3e0a4bf1.mp3",
+					"translation": "юнак",
+					"transcription": "junak"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/a/a30e3ad4982e350299c96d62a097e4c3.mp3",
+					"translation": "ювілей",
+					"transcription": "juvilej"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/6/6fbcec67b28e50f2dc0a8a72cd3cb0fe.mp3",
+					"translation": "любити",
+					"transcription": "ljubyty"
+				}
+			],
+			"sound_url": "https://data.movapp.eu/uk-alphabet/recVTytvp9f1OCmgn.mp3",
+			"transcription": "[l]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"व"
+			],
+			"examples": [
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/b/bc82ed7e4ec21a697ad0c7ef3e0a4bf1.mp3",
+					"translation": "юнак",
+					"transcription": "junak"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/a/a30e3ad4982e350299c96d62a097e4c3.mp3",
+					"translation": "ювілей",
+					"transcription": "juvilej"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/6/6fbcec67b28e50f2dc0a8a72cd3cb0fe.mp3",
+					"translation": "любити",
+					"transcription": "ljubyty"
+				}
+			],
+			"sound_url": "https://data.movapp.eu/uk-alphabet/recVTytvp9f1OCmgn.mp3",
+			"transcription": "[v]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"श"
+			],
+			"examples": [
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/b/bc82ed7e4ec21a697ad0c7ef3e0a4bf1.mp3",
+					"translation": "юнак",
+					"transcription": "junak"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/a/a30e3ad4982e350299c96d62a097e4c3.mp3",
+					"translation": "ювілей",
+					"transcription": "juvilej"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/6/6fbcec67b28e50f2dc0a8a72cd3cb0fe.mp3",
+					"translation": "любити",
+					"transcription": "ljubyty"
+				}
+			],
+			"sound_url": "https://data.movapp.eu/uk-alphabet/recVTytvp9f1OCmgn.mp3",
+			"transcription": "[sh]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"ष"
+			],
+			"examples": [
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/b/bc82ed7e4ec21a697ad0c7ef3e0a4bf1.mp3",
+					"translation": "юнак",
+					"transcription": "junak"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/a/a30e3ad4982e350299c96d62a097e4c3.mp3",
+					"translation": "ювілей",
+					"transcription": "juvilej"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/6/6fbcec67b28e50f2dc0a8a72cd3cb0fe.mp3",
+					"translation": "любити",
+					"transcription": "ljubyty"
+				}
+			],
+			"sound_url": "https://data.movapp.eu/uk-alphabet/recVTytvp9f1OCmgn.mp3",
+			"transcription": "[shh]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"स"
+			],
+			"examples": [
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/b/bc82ed7e4ec21a697ad0c7ef3e0a4bf1.mp3",
+					"translation": "юнак",
+					"transcription": "junak"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/a/a30e3ad4982e350299c96d62a097e4c3.mp3",
+					"translation": "ювілей",
+					"transcription": "juvilej"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/6/6fbcec67b28e50f2dc0a8a72cd3cb0fe.mp3",
+					"translation": "любити",
+					"transcription": "ljubyty"
+				}
+			],
+			"sound_url": "https://data.movapp.eu/uk-alphabet/recVTytvp9f1OCmgn.mp3",
+			"transcription": "[s]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"क्ष"
+			],
+			"examples": [
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/b/bc82ed7e4ec21a697ad0c7ef3e0a4bf1.mp3",
+					"translation": "юнак",
+					"transcription": "junak"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/a/a30e3ad4982e350299c96d62a097e4c3.mp3",
+					"translation": "ювілей",
+					"transcription": "juvilej"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/6/6fbcec67b28e50f2dc0a8a72cd3cb0fe.mp3",
+					"translation": "любити",
+					"transcription": "ljubyty"
+				}
+			],
+			"sound_url": "https://data.movapp.eu/uk-alphabet/recVTytvp9f1OCmgn.mp3",
+			"transcription": "[ksh]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"ह"
+			],
+			"examples": [
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/b/bc82ed7e4ec21a697ad0c7ef3e0a4bf1.mp3",
+					"translation": "юнак",
+					"transcription": "junak"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/a/a30e3ad4982e350299c96d62a097e4c3.mp3",
+					"translation": "ювілей",
+					"transcription": "juvilej"
+				},
+				{
+					"sound_url": "https://data.movapp.eu/uk-sounds/6/6fbcec67b28e50f2dc0a8a72cd3cb0fe.mp3",
+					"translation": "любити",
+					"transcription": "ljubyty"
+				}
+			],
+			"sound_url": "https://data.movapp.eu/uk-alphabet/recVTytvp9f1OCmgn.mp3",
+			"transcription": "[h]"
 		}
 	]
 }
