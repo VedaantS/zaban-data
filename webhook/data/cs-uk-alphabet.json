@@ -1,0 +1,781 @@
+{
+	"source": "cs",
+	"main": "uk",
+	"data": [
+		{
+			"id": "recOMNxm02MGy3r7I",
+			"letters": [
+				"A",
+				"a"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Apple",
+					"transcription": "आप्पल - सेब"
+				},
+				{
+					"sound_url": "",
+					"translation": "Army",
+					"transcription": "आर्मी - सेना"
+				},
+				{
+					"sound_url": "",
+					"translation": "Angry",
+					"transcription": "आंग्री - नाराज़"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/recOMNxm02MGy3r7I.mp3",
+			"transcription": "[आ]"
+		},
+		{
+			"id": "recd4wMiN82fnZpcY",
+			"letters": [
+				"B",
+				"b"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Banana",
+					"transcription": "बनाना - केला"
+				},
+				{
+					"sound_url": "",
+					"translation": "Birthday",
+					"transcription": "बर्थडे - जन्मदिन"
+				},
+				{
+					"sound_url": "",
+					"translation": "Big",
+					"transcription": "बिग - बड़ा"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/speech_20240213203811308.mp3",
+			"transcription": "[ब]"
+		},
+		{
+			"id": "recf0H81umzag6uAn",
+			"letters": [
+				"C",
+				"c"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Car",
+					"transcription": "कार - गाड़ी"
+				},
+				{
+					"sound_url": "",
+					"translation": "Coffee",
+					"transcription": "कॉफ़ी"
+				},
+				{
+					"sound_url": "",
+					"translation": "City",
+					"transcription": "सिटी - शहर"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/recf0H81umzag6uAn.mp3",
+			"transcription": "['क' -- कभी कभी 'स' भी]"
+		},
+		{
+			"id": "recGoIj7i3OyrHVPY",
+			"letters": [
+				"D",
+				"d"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Dog",
+					"transcription": "डॉग - कुत्ता"
+				},
+				{
+					"sound_url": "",
+					"translation": "Dance",
+					"transcription": "डांस - नाच"
+				},
+				{
+					"sound_url": "",
+					"translation": "Dear",
+					"transcription": "डीयर - प्यारी"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/speech_20240213203858429.mp3",
+			"transcription": "[ड]"
+		},
+		{
+			"id": "recvRLkJnneOir4jF",
+			"letters": [
+				"E",
+				"e"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Egg",
+					"transcription": "एग - अंडा"
+				},
+				{
+					"sound_url": "",
+					"translation": "Eight",
+					"transcription": "एट - आठ"
+				},
+				{
+					"sound_url": "",
+					"translation": "Elephant",
+					"transcription": "एलीफैंट - हाथी"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/speech_20240213204108886.mp3",
+			"transcription": "[ए]"
+		},
+		{
+			"id": "recNsSGLqLbok8HGg",
+			"letters": [
+				"F",
+				"f"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Flower",
+					"transcription": "फ्लावर - फूल"
+				},
+				{
+					"sound_url": "",
+					"translation": "Farm",
+					"transcription": "फ़ार्म - खेत"
+				},
+				{
+					"sound_url": "",
+					"translation": "Food",
+					"transcription": "फ़ूड - ख़ाना"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/recNsSGLqLbok8HGg.mp3",
+			"transcription": "[फ़]"
+		},
+		{
+			"id": "recw7zddc4Xwy4Qfh",
+			"letters": [
+				"G",
+				"g"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Game",
+					"transcription": "गेम"
+				},
+				{
+					"sound_url": "",
+					"translation": "Green",
+					"transcription": "ग्रीन - हरा"
+				},
+				{
+					"sound_url": "",
+					"translation": "Gift",
+					"transcription": "गिफ्ट - उपहार"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/speech_20240213204558439.mp3",
+			"transcription": "[ग]"
+		},
+		{
+			"id": "reciXOG47yk1nFC7d",
+			"letters": [
+				"H",
+				"h"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Hand",
+					"transcription": "हाँड़ - हाथ"
+				},
+				{
+					"sound_url": "",
+					"translation": "Hair",
+					"transcription": "हेयर - बाल"
+				},
+				{
+					"sound_url": "",
+					"translation": "Heart",
+					"transcription": "हार्ट - दिल"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/speech_20240213204601381.mp3",
+			"transcription": "[ह]"
+		},
+		{
+			"id": "recf4FKmkWlgfHOnQ",
+			"letters": [
+				"I",
+				"i"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Ice",
+					"transcription": "आइस - बर्फ"
+				},
+				{
+					"sound_url": "",
+					"translation": "Illness",
+					"transcription": "इलनेस - बुख़ार"
+				},
+				{
+					"sound_url": "",
+					"translation": "Is",
+					"transcription": "इस - है"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/speech_20240213204718026.mp3",
+			"transcription": "[ई]"
+		},
+		{
+			"id": "recHIWry7ynphg9EY",
+			"letters": [
+				"J",
+				"j"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Jail",
+					"transcription": "जेल"
+				},
+				{
+					"sound_url": "",
+					"translation": "Job",
+					"transcription": "जॉब - नौकरी"
+				},
+				{
+					"sound_url": "",
+					"translation": "Juice",
+					"transcription": "जूस"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/recHIWry7ynphg9EY.mp3",
+			"transcription": "[ज]"
+		},
+		{
+			"id": "recgFq6HmkTFasdBQ",
+			"letters": [
+				"K",
+				"k"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Key",
+					"transcription": "की - चाबी"
+				},
+				{
+					"sound_url": "",
+					"translation": "King",
+					"transcription": "किंग - राणा"
+				},
+				{
+					"sound_url": "",
+					"translation": "Kitchen",
+					"transcription": "किचन - रसोई"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/recgFq6HmkTFasdBQ.mp3",
+			"transcription": "[क]"
+		},
+		{
+			"id": "recBs2tfkK6CGz7CF",
+			"letters": [
+				"L",
+				"l"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Lady",
+					"transcription": "लेडी - महिला"
+				},
+				{
+					"sound_url": "",
+					"translation": "Little",
+					"transcription": "लिटल - छोटा"
+				},
+				{
+					"sound_url": "",
+					"translation": "Long",
+					"transcription": "लौंग - लंबा"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/recBs2tfkK6CGz7CF.mp3",
+			"transcription": "[ल]"
+		},
+		{
+			"id": "recVPWpeTf5ertUkl",
+			"letters": [
+				"M",
+				"m"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Man",
+					"transcription": "मान - आदमी"
+				},
+				{
+					"sound_url": "",
+					"translation": "Map",
+					"transcription": "माप - मानचित्र"
+				},
+				{
+					"sound_url": "",
+					"translation": "Monkey",
+					"transcription": "मंकी - बंदर"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/recVPWpeTf5ertUkl.mp3",
+			"transcription": "[म]"
+		},
+		{
+			"id": "recmG4r6k5EDssGbd",
+			"letters": [
+				"N",
+				"n"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Name",
+					"transcription": "नेम - नाम"
+				},
+				{
+					"sound_url": "",
+					"translation": "North",
+					"transcription": "नॉर्थ - उत्तर"
+				},
+				{
+					"sound_url": "",
+					"translation": "Net",
+					"transcription": "नेट"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/speech_20240213204818429.mp3",
+			"transcription": "[न]"
+		},
+		{
+			"id": "recH5tDAgaZ3npwjb",
+			"letters": [
+				"O",
+				"o"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Ocean",
+					"transcription": "ओषण - समंदर"
+				},
+				{
+					"sound_url": "",
+					"translation": "Orange",
+					"transcription": "ओरिंज - नारंगी"
+				},
+				{
+					"sound_url": "",
+					"translation": "Open",
+					"transcription": "ओपन - खुला"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/recH5tDAgaZ3npwjb.mp3",
+			"transcription": "[ओ]"
+		},
+		{
+			"id": "recpFmj9T3joam8KE",
+			"letters": [
+				"P",
+				"p"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Pencil",
+					"transcription": "पेंसिल"
+				},
+				{
+					"sound_url": "",
+					"translation": "Potato",
+					"transcription": "पोटैटो - आलू"
+				},
+				{
+					"sound_url": "",
+					"translation": "Picture",
+					"transcription": "पिक्चर"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/speech_20240213204856678.mp3",
+			"transcription": "[प]"
+		},
+		{
+			"id": "recYt771dyafvJAkx",
+			"letters": [
+				"Q",
+				"q"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Queen",
+					"transcription": "क्वीन - रानी"
+				},
+				{
+					"sound_url": "",
+					"translation": "Question",
+					"transcription": "क्वेश्चन - सवाल"
+				},
+				{
+					"sound_url": "",
+					"translation": "Quiet",
+					"transcription": "क्वाइट - चुप"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/speech_20240213204900373.mp3",
+			"transcription": "[क्व]"
+		},
+		{
+			"id": "rectZM77FCBpNtB3i",
+			"letters": [
+				"R",
+				"r"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Radio",
+					"transcription": "रेडियो"
+				},
+				{
+					"sound_url": "",
+					"translation": "Rice",
+					"transcription": "राइस - चावल"
+				},
+				{
+					"sound_url": "",
+					"translation": "Rock",
+					"transcription": "रोक - पत्थर"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/rectZM77FCBpNtB3i.mp3",
+			"transcription": "[र]"
+		},
+		{
+			"id": "recAqkdPBflNh2AXu",
+			"letters": [
+				"S",
+				"s"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Song",
+					"transcription": "सॉंग - गाना"
+				},
+				{
+					"sound_url": "",
+					"translation": "Sit",
+					"transcription": "सिट - बैठना"
+				},
+				{
+					"sound_url": "",
+					"translation": "Sir",
+					"transcription": "सर"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/recAqkdPBflNh2AXu.mp3",
+			"transcription": "[स]"
+		},
+		{
+			"id": "recJz8EPMdOWvHeR5",
+			"letters": [
+				"T",
+				"t"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Towel",
+					"transcription": "टावल - तौलिया"
+				},
+				{
+					"sound_url": "",
+					"translation": "Time",
+					"transcription": "टाइम - समय"
+				},
+				{
+					"sound_url": "",
+					"translation": "Thing",
+					"transcription": "थिंग - चीज़"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/recJz8EPMdOWvHeR5.mp3",
+			"transcription": "[ट]"
+		},
+		{
+			"id": "recgdkPwsxkX24TrX",
+			"letters": [
+				"U",
+				"u"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Umbrella",
+					"transcription": "अम्ब्रेला - छटा"
+				},
+				{
+					"sound_url": "",
+					"translation": "Underwear",
+					"transcription": "अंडरवियर - चड्डी"
+				},
+				{
+					"sound_url": "",
+					"translation": "Uncle",
+					"transcription": "अंकल - मामा"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/recgdkPwsxkX24TrX.mp3",
+			"transcription": "[अ]"
+		},
+		{
+			"id": "recIfe0etVnOObokm",
+			"letters": [
+				"V",
+				"v"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Villain",
+					"transcription": "विलन"
+				},
+				{
+					"sound_url": "",
+					"translation": "Vest",
+					"transcription": "वेस्ट - बन्यान"
+				},
+				{
+					"sound_url": "",
+					"translation": "Video",
+					"transcription": "वीडियो"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/speech_20240213205229393.mp3",
+			"transcription": "[व]"
+		},
+		{
+			"id": "recIfe0etVnOObokm",
+			"letters": [
+				"W",
+				"w"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Water",
+					"transcription": "वाटर - पानी"
+				},
+				{
+					"sound_url": "",
+					"translation": "Woman",
+					"transcription": "वुमन - औरत"
+				},
+				{
+					"sound_url": "",
+					"translation": "Wing",
+					"transcription": "विंग - पंख"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/speech_20240213205252708.mp3",
+			"transcription": "[वू]"
+		},
+		{
+			"id": "recvyuObictVxkQJP",
+			"letters": [
+				"X",
+				"x"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Six",
+					"transcription": "सिक्स - छे"
+				},
+				{
+					"sound_url": "",
+					"translation": "Box",
+					"transcription": "बॉक्स - डिब्बा"
+				},
+				{
+					"sound_url": "",
+					"translation": "Ox",
+					"transcription": "ऑक्स - बेल"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/speech_20240213205410187.mp3",
+			"transcription": "[क्स]"
+		},
+		{
+			"id": "rec3pU8WsY9bIt9ea",
+			"letters": [
+				"Y",
+				"y"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Yogurt",
+					"transcription": "योगर्ट - दही"
+				},
+				{
+					"sound_url": "",
+					"translation": "You",
+					"transcription": "यू - तुम"
+				},
+				{
+					"sound_url": "",
+					"translation": "यस्टरडे",
+					"transcription": "यस्टरडे - कल"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/rec3pU8WsY9bIt9ea.mp3",
+			"transcription": "[य]"
+		},
+		{
+			"id": "recyaP4EPZJLYtPS0",
+			"letters": [
+				"Z",
+				"z"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Zoo",
+					"transcription": "जू - चिड़ियाघर"
+				},
+				{
+					"sound_url": "",
+					"translation": "Pizza",
+					"transcription": "पिज़्ज़ा"
+				}			
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/speech_20240213205413152.mp3",
+			"transcription": "[ज़]"
+		},
+		{
+			"id": "recyaP4EPZJLYtPS0",
+			"letters": [
+				"Sh",
+				"sh"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Shawl",
+					"transcription": "शावल - दुपट्टा"
+				},
+				{
+					"sound_url": "",
+					"translation": "Shirt",
+					"transcription": "शर्ट"
+				},
+				{
+					"sound_url": "",
+					"translation": "Sheep",
+					"transcription": "शीप - बकरी"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/speech_20240213205754385.mp3",
+			"transcription": "[श]"
+		},
+		{
+			"id": "recyaP4EPZJLYtPS0",
+			"letters": [
+				"Th",
+				"th"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Three",
+					"transcription": "थ्री - तीन"
+				},
+				{
+					"sound_url": "",
+					"translation": "Thug",
+					"transcription": "थग - ठग"
+				},
+				{
+					"sound_url": "",
+					"translation": "Think",
+					"transcription": "सोच"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/speech_20240213205759469.mp3",
+			"transcription": "[थ]"
+		},
+		{
+			"id": "recyaP4EPZJLYtPS0",
+			"letters": [
+				"Ch",
+				"ch"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "China",
+					"transcription": "चाइना - चीन"
+				},
+				{
+					"sound_url": "",
+					"translation": "Chai",
+					"transcription": "चाय"
+				},
+				{
+					"sound_url": "",
+					"translation": "Chair",
+					"transcription": "चेयर - कुर्सी"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/speech_20240213205813625.mp3",
+			"transcription": "[च]"
+		}, 
+		{
+			"id": "recyaP4EPZJLYtPS0",
+			"letters": [
+				"Ng",
+				"ng"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "Doing",
+					"transcription": "डूइंग - करना"
+				},
+				{
+					"sound_url": "",
+					"translation": "English",
+					"transcription": "इंगलिश - अंग्रेज़ी"
+				},
+				{
+					"sound_url": "",
+					"translation": "Long",
+					"transcription": "लौंग - लंबा"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/recyaP4EPZJLYtPS0.mp3",
+			"transcription": "[अंग]"
+		}
+	]
+}

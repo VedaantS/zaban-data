@@ -1,0 +1,1106 @@
+{
+	"source": "uk",
+	"main": "cs",
+	"data": [
+		{
+			"id": "recDDaCwQtvYhdcg2",
+			"letters": [
+				"अ"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "अनार",
+					"transcription": "anaar"
+				},
+				{
+					"sound_url": "",
+					"translation": "अमरूद",
+					"transcription": "amrud"
+				},
+				{
+					"sound_url": "",
+					"translation": "अकेला",
+					"transcription": "akela"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound0.mp3",
+			"transcription": "[uh]"
+		},
+		{
+			"id": "rec9N66vDdvjVVsj4",
+			"letters": [
+				"आ",
+				"ा"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "आम",
+					"transcription": "aam"
+				},
+				{
+					"sound_url": "",
+					"translation": "आधा",
+					"transcription": "aadha"
+				},
+				{
+					"sound_url": "",
+					"translation": "आख़िरी",
+					"transcription": "aakhri"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound1.mp3",
+			"transcription": "[ah]"
+		},
+		{
+			"id": "rec61WBFdbTSezMBH",
+			"letters": [
+				"इ",
+				"ि"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "इमली",
+					"transcription": "imli"
+				},
+				{
+					"sound_url": "",
+					"translation": "इंडिया",
+					"transcription": "indiya"
+				}			
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound2.mp3",
+			"transcription": "[i]"
+		},
+		{
+			"id": "recEIbysPTfDPbvNB",
+			"letters": [
+				"ई",
+				"ी"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "ईश्वर",
+					"transcription": "eeshvar"
+				},
+				{
+					"sound_url": "",
+					"translation": "ईंठ",
+					"transcription": "eenth"
+				},
+				{
+					"sound_url": "",
+					"translation": "ईख",
+					"transcription": "eekh"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound3.mp3",
+			"transcription": "[ee]"
+		},
+		{
+			"id": "recSDVzVVb0NgzXzU",
+			"letters": [
+				"उ",
+				"ु"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "उल्लू",
+					"transcription": "ullu"
+				},
+				{
+					"sound_url": "",
+					"translation": "उबला",
+					"transcription": "ubla"
+				},
+				{
+					"sound_url": "",
+					"translation": "उत्तर",
+					"transcription": "uttar"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound4.mp3",
+			"transcription": "[u]"
+		},
+		{
+			"id": "recB9aOt1XxOTIDIe",
+			"letters": [
+				"ऊ",
+				"ू"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "ऊपर",
+					"transcription": "oopar"
+				},
+				{
+					"sound_url": "",
+					"translation": "ऊन",
+					"transcription": "oon"
+				},
+				{
+					"sound_url": "",
+					"translation": "ऊर्जा",
+					"transcription": "oorj"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound5.mp3",
+			"transcription": "[ooh]"
+		},
+		{
+			"id": "recBxnp7BZbNv9ky8",
+			"letters": [
+				"ए",
+				"े"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "एक",
+					"transcription": "ek"
+				},
+				{
+					"sound_url": "",
+					"translation": "एड़ी",
+					"transcription": "edi"
+				},
+				{
+					"sound_url": "",
+					"translation": "एंबुलेंस",
+					"transcription": "embulens"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound6.mp3",
+			"transcription": "[ay]"
+		},
+		{
+			"id": "recT6cLU7O1F5wPEp",
+			"letters": [
+				"ऎ",
+				"ै"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "ऐनक",
+					"transcription": "ainak"
+				},
+				{
+					"sound_url": "",
+					"translation": "ऐसी",
+					"transcription": "aise"
+				},
+				{
+					"sound_url": "",
+					"translation": "ऐप",
+					"transcription": "aip"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound7.mp3",
+			"transcription": "[e]"
+		},
+		{
+			"id": "recR5idHzhYW9eC5M",
+			"letters": [
+				"ऒ",
+				"ो"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "ओखली",
+					"transcription": "okhli"
+				},
+				{
+					"sound_url": "",
+					"translation": "ओम",
+					"transcription": "om"
+				},
+				{
+					"sound_url": "",
+					"translation": "ओ",
+					"transcription": "o"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound8.mp3",
+			"transcription": "[oh]"
+		},
+		{
+			"id": "rec7YMn8RR7qCikn5",
+			"letters": [
+				"औ",
+				"ौ"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "औरत",
+					"transcription": "aurat"
+				},
+				{
+					"sound_url": "",
+					"translation": "और",
+					"transcription": "aur"
+				},
+				{
+					"sound_url": "",
+					"translation": "औरंगज़ेब",
+					"transcription": "aurangzeb"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound9.mp3",
+			"transcription": "[ow]"
+		},
+		{
+			"id": "rec7OIvBsgsmZiw0J",
+			"letters": [
+				"ॲ",
+				"ं"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "अंगूर",
+					"transcription": "angoor"
+				},
+				{
+					"sound_url": "",
+					"translation": "अंगूठा",
+					"transcription": "angutha"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound10.mp3",
+			"transcription": "[ng]"
+		},
+		{
+			"id": "recmI8rcnPURlPcxM",
+			"letters": [
+				"क"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "कठल",
+					"transcription": "kathal"
+				},
+				{
+					"sound_url": "",
+					"translation": "कमल",
+					"transcription": "kamal"
+				},
+				{
+					"sound_url": "",
+					"translation": "कमर",
+					"transcription": "kamar"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound11.mp3",
+			"transcription": "[k]"
+		},
+		{
+			"id": "recBotIOJPWVFpqNs",
+			"letters": [
+				"ख"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "ख़रगोश",
+					"transcription": "khargosh"
+				},
+				{
+					"sound_url": "",
+					"translation": "खूबसूरत",
+					"transcription": "khoobsurat"
+				},
+				{
+					"sound_url": "",
+					"translation": "ख़ुदा",
+					"transcription": "khuda"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound12.mp3",
+			"transcription": "[kh]"
+		},
+		{
+			"id": "rectuWdYha5gcNjCQ",
+			"letters": [
+				"ग"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "गाना",
+					"transcription": "naama"
+				},
+				{
+					"sound_url": "",
+					"translation": "गमला",
+					"transcription": "gamla"
+				},
+				{
+					"sound_url": "",
+					"translation": "गरुड़",
+					"transcription": "garuda"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound13.mp3",
+			"transcription": "[g]"
+		},
+		{
+			"id": "rechVoEy6J4OrLURA",
+			"letters": [
+				"घ"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "घर",
+					"transcription": "ghar"
+				},
+				{
+					"sound_url": "",
+					"translation": "घंटा",
+					"transcription": "ghanta"
+				},
+				{
+					"sound_url": "",
+					"translation": "घड़ियाल",
+					"transcription": "ghariyal"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound14.mp3",
+			"transcription": "[gh]"
+		},
+		{
+			"id": "rec81VMmvqYL8Ak32",
+			"letters": [
+				"ङ"
+			],
+			"examples": [
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound15.mp3",
+			"transcription": "[n]"
+		},
+		{
+			"id": "recuBoO1vyTgB8K83",
+			"letters": [
+				"च"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "चम्मच",
+					"transcription": "chammach"
+				},
+				{
+					"sound_url": "",
+					"translation": "चाकू",
+					"transcription": "chaku"
+				},
+				{
+					"sound_url": "",
+					"translation": "चाबी",
+					"transcription": "chabi"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound16.mp3",
+			"transcription": "[ch]"
+		},
+		{
+			"id": "recluu4he7u6srOnQ",
+			"letters": [
+				"छ"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "छतरी",
+					"transcription": "chatri"
+				},
+				{
+					"sound_url": "",
+					"translation": "छिलका",
+					"transcription": "chilka"
+				},
+				{
+					"sound_url": "",
+					"translation": "छड़ी",
+					"transcription": "chodi"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound17.mp3",
+			"transcription": "[chh]"
+		},
+		{
+			"id": "recF82O3WCQh0v0xC",
+			"letters": [
+				"ज"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "जूता",
+					"transcription": "juta"
+				},
+				{
+					"sound_url": "",
+					"translation": "जल",
+					"transcription": "jal"
+				},
+				{
+					"sound_url": "",
+					"translation": "जादू",
+					"transcription": "jadu"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound18.mp3",
+			"transcription": "[j]"
+		},
+		{
+			"id": "recw6xcVervxmfAVd",
+			"letters": [
+				"झ"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "झंडा",
+					"transcription": "jhanda"
+				},
+				{
+					"sound_url": "",
+					"translation": "झाड़ू",
+					"transcription": "jhaaru"
+				},
+				{
+					"sound_url": "",
+					"translation": "झुमका",
+					"transcription": "jhumka"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound19.mp3",
+			"transcription": "[jh]"
+		},
+		{
+			"id": "recmSLQYSNrXxAUm6",
+			"letters": [
+				"ञ"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "ज्ञान",
+					"transcription": "gyaan"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound20.mp3",
+			"transcription": "[gy]"
+		},
+		{
+			"id": "recFN0y8LC3HDQYLp",
+			"letters": [
+				"ट"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "टमाटर",
+					"transcription": "tamatar"
+				},
+				{
+					"sound_url": "",
+					"translation": "टोल",
+					"transcription": "toll"
+				},
+				{
+					"sound_url": "",
+					"translation": "टंकी",
+					"transcription": "tanki"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound21.mp3",
+			"transcription": "[t]"
+		},
+		{
+			"id": "recIoyTuUWYyW3vlu",
+			"letters": [
+				"ठ"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "ठठेरा",
+					"transcription": "thathera"
+				},
+				{
+					"sound_url": "",
+					"translation": "ठेला",
+					"transcription": "thela"
+				},
+				{
+					"sound_url": "",
+					"translation": "ठंड",
+					"transcription": "thand"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound22.mp3",
+			"transcription": "[th]"
+		},
+		{
+			"id": "recyPCo6vs3mNPTDI",
+			"letters": [
+				"ड"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "डमरू",
+					"transcription": "damru"
+				},
+				{
+					"sound_url": "",
+					"translation": "डिब्बा",
+					"transcription": "dibba"
+				},
+				{
+					"sound_url": "",
+					"translation": "डाकू",
+					"transcription": "daku"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound23.mp3",
+			"transcription": "[d]"
+		},
+		{
+			"id": "rech80KON2b1gfoSV",
+			"letters": [
+				"ढ"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "ढोलक",
+					"transcription": "dholak"
+				},
+				{
+					"sound_url": "",
+					"translation": "ढक्कन",
+					"transcription": "dhakkan"
+				},
+				{
+					"sound_url": "",
+					"translation": "ढोल",
+					"transcription": "dhol"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound24.mp3",
+			"transcription": "[dh]"
+		},
+		{
+			"id": "rec1JV8rfVUO2b36T",
+			"letters": [
+				"ण"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "प्रणाम",
+					"transcription": "pram"
+				},
+				{
+					"sound_url": "",
+					"translation": "बाण",
+					"transcription": "van"
+				},
+				{
+					"sound_url": "",
+					"translation": "वाणी",
+					"transcription": "vani"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound25.mp3",
+			"transcription": "[n]"
+		},
+		{
+			"id": "recsxzayY1XgKnzjV",
+			"letters": [
+				"त"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "तबला",
+					"transcription": "tabla"
+				},
+				{
+					"sound_url": "",
+					"translation": "तोता",
+					"transcription": "tota"
+				},
+				{
+					"sound_url": "",
+					"translation": "तरबूज़ा",
+					"transcription": "tarbuza"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound26.mp3",
+			"transcription": "[t]"
+		},
+		{
+			"id": "recwK6jUYBX7LzijM",
+			"letters": [
+				"थ"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "थैला",
+					"transcription": "thela"
+				},
+				{
+					"sound_url": "",
+					"translation": "थाली",
+					"transcription": "tholi"
+				},
+				{
+					"sound_url": "",
+					"translation": "थोड़ा",
+					"transcription": "thoda"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound27.mp3",
+			"transcription": "[th]"
+		},
+		{
+			"id": "recrOKoU116jw2Uth",
+			"letters": [
+				"द"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "दांत",
+					"transcription": "daant"
+				},
+				{
+					"sound_url": "",
+					"translation": "दूध",
+					"transcription": "doodh"
+				},
+				{
+					"sound_url": "",
+					"translation": "दरवाज़ा",
+					"transcription": "darwaza"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound28.mp3",
+			"transcription": "[d]"
+		},
+		{
+			"id": "recntseq6iSgLoKl7",
+			"letters": [
+				"ध"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "धनुष",
+					"transcription": "dhanush"
+				},
+				{
+					"sound_url": "",
+					"translation": "धावक",
+					"transcription": "dhavak"
+				},
+				{
+					"sound_url": "",
+					"translation": "धनिया",
+					"transcription": "dhaniya"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound29.mp3",
+			"transcription": "[dh]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"न"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "नमक",
+					"transcription": "namak"
+				},
+				{
+					"sound_url": "",
+					"translation": "नारंगी",
+					"transcription": "narangi"
+				},
+				{
+					"sound_url": "",
+					"translation": "नाक",
+					"transcription": "nak"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound30.mp3",
+			"transcription": "[n]"
+		},
+		{
+			"id": "recTaPnTXAc0JFVAV",
+			"letters": [
+				"प"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "पुस्तक",
+					"transcription": "pustak"
+				},
+				{
+					"sound_url": "",
+					"translation": "पानी",
+					"transcription": "pani"
+				},
+				{
+					"sound_url": "",
+					"translation": "पपीता",
+					"transcription": "papita"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound31.mp3",
+			"transcription": "[p]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"फ"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "फूल",
+					"transcription": "ful"
+				},
+				{
+					"sound_url": "",
+					"translation": "फुटबॉल",
+					"transcription": "futbol"
+				},
+				{
+					"sound_url": "",
+					"translation": "फल",
+					"transcription": "fal"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound32.mp3",
+			"transcription": "[f]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"ब"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "बकरी",
+					"transcription": "bakri"
+				},
+				{
+					"sound_url": "",
+					"translation": "बाघ",
+					"transcription": "bagh"
+				},
+				{
+					"sound_url": "",
+					"translation": "बिल्ली",
+					"transcription": "billi"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound33.mp3",
+			"transcription": "[b]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"भ"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "भैंस",
+					"transcription": "bhens"
+				},
+				{
+					"sound_url": "",
+					"translation": "भालू",
+					"transcription": "bhalu"
+				},
+				{
+					"sound_url": "",
+					"translation": "भिंडी",
+					"transcription": "bhindi"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound34.mp3",
+			"transcription": "[bh]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"म"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "माता",
+					"transcription": "mata"
+				},
+				{
+					"sound_url": "",
+					"translation": "मटर",
+					"transcription": "matar"
+				},
+				{
+					"sound_url": "",
+					"translation": "मकान",
+					"transcription": "makaan"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound35.mp3",
+			"transcription": "[m]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"य"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "योगी",
+					"transcription": "yogi"
+				},
+				{
+					"sound_url": "",
+					"translation": "यात्रा",
+					"transcription": "yatra"
+				},
+				{
+					"sound_url": "",
+					"translation": "यज्ञ",
+					"transcription": "yagya"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound36.mp3",
+			"transcription": "[y]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"र"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "रुपया",
+					"transcription": "rupaya"
+				},
+				{
+					"sound_url": "",
+					"translation": "राजा",
+					"transcription": "raja"
+				},
+				{
+					"sound_url": "",
+					"translation": "रस",
+					"transcription": "ras"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound37.mp3",
+			"transcription": "[r]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"ल"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "लड्डू",
+					"transcription": "laddu"
+				},
+				{
+					"sound_url": "",
+					"translation": "लाठी",
+					"transcription": "lathi"
+				},
+				{
+					"sound_url": "",
+					"translation": "लाल",
+					"transcription": "lal"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound38.mp3",
+			"transcription": "[l]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"व"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "वज़ीर",
+					"transcription": "wazir"
+				},
+				{
+					"sound_url": "",
+					"translation": "विमान",
+					"transcription": "vimaan"
+				},
+				{
+					"sound_url": "",
+					"translation": "विकास",
+					"transcription": "vikas"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound39.mp3",
+			"transcription": "[v]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"श"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "शब्द",
+					"transcription": "shabd"
+				},
+				{
+					"sound_url": "",
+					"translation": "शांति",
+					"transcription": "shanti"
+				},
+				{
+					"sound_url": "",
+					"translation": "शर्त",
+					"transcription": "shurt"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound40.mp3",
+			"transcription": "[sh]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"ष"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "षटकोण",
+					"transcription": "shatkon"
+				},
+				{
+					"sound_url": "",
+					"translation": "षट्भुज",
+					"transcription": "shatbhuj"
+				},
+				{
+					"sound_url": "",
+					"translation": "षडयंत्र",
+					"transcription": "padyantra"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound41.mp3",
+			"transcription": "[shh]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"स"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "साबुन",
+					"transcription": "sabun"
+				},
+				{
+					"sound_url": "",
+					"translation": "साँप",
+					"transcription": "saanp"
+				},
+				{
+					"sound_url": "",
+					"translation": "साग",
+					"transcription": "saag"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound42.mp3",
+			"transcription": "[s]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"क्ष"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "क्षत्रिय",
+					"transcription": "kshatriya"
+				},
+				{
+					"sound_url": "",
+					"translation": "अक्षर",
+					"transcription": "akshar"
+				},
+				{
+					"sound_url": "",
+					"translation": "कक्षा",
+					"transcription": "kaksha"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound43.mp3",
+			"transcription": "[ksh]"
+		},
+		{
+			"id": "recVTytvp9f1OCmgn",
+			"letters": [
+				"ह"
+			],
+			"examples": [
+				{
+					"sound_url": "",
+					"translation": "हरा",
+					"transcription": "hari"
+				},
+				{
+					"sound_url": "",
+					"translation": "हिंदुस्तान",
+					"transcription": "hindustan"
+				},
+				{
+					"sound_url": "",
+					"translation": "हार",
+					"transcription": "haar"
+				}
+			],
+			"sound_url": "https://factfully.riverdale.edu/sounds/sound44.mp3",
+			"transcription": "[h]"
+		}
+	]
+}
